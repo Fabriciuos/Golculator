@@ -9,7 +9,7 @@ func main() {
 	myApp := app.New()
 	myWindow := myApp.NewWindow("Golculator")
 
-	myWindow.Resize(fyne.NewSize(400, 400))
+	myWindow.Resize(fyne.NewSize(233, 330))
 
 	cont := Sized()
 
